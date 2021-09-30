@@ -1,0 +1,86 @@
+{
+  "tweets": [
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@Samsung",
+        "img": "images/samsung.png"
+      },
+      "text": "بهترین وعده ی غذایی با اختلاف صبحانست چون ممکن نیست برای #صبحانه کسی #خورشت کرفس درست کنه.",
+      "likes": 5
+    },
+    {
+      "sender": {
+        "name": "سیامک",
+        "id": "@siam",
+        "img": "images/siam.png"
+      },
+      "text": "دوچرخه سواری خیلی خیلی مفیده",
+      "likes": 7
+    },
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@Samsung",
+        "img": "images/samsung.png"
+      },
+      "text": "بهترین وعده ی غذایی با اختلاف صبحانست چون ممکن نیست برای #صبحانه کسی #خورشت کرفس درست کنه.",
+      "likes": 11
+    },
+    {
+      "sender": {
+        "name": "سیامک",
+        "id": "@siam",
+        "img": "images/siam.png"
+      },
+      "text": "دوچرخه سواری خیلی خیلی مفیده",
+      "likes": 2
+    },
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@Samsung",
+        "img": "images/samsung.png"
+      },
+      "text": "بهترین وعده ی غذایی با اختلاف صبحانست چون ممکن نیست برای #صبحانه کسی #خورشت کرفس درست کنه.",
+      "likes": 9
+    }
+  ],
+  "hashTags": [
+    "پرچم_دار_جدید",
+    "کرونا_ویروس",
+    "سامسونگ",
+    "هلو_سامر",
+    "پرچم_دار_جدید",
+    "کرونا_ویروس",
+    "سامسونگ",
+    "هلو_سامر"
+  ],
+  "users": [
+    {
+      "name": "Xiaomi",
+      "id": "@Xiaomi",
+      "img": "/images/xiaomi.png"
+    },
+    {
+      "name": "Samsung",
+      "id": "@Samsung",
+      "img": "/images/samsung.png"
+    },
+    {
+      "name": "بیل گیتس",
+      "id": "@BillGates",
+      "img": "/images/bil.png"
+    },
+    {
+      "name": "مایک بای",
+      "id": "@Mike_IMC",
+      "img": "/images/mike.png"
+    },
+    {
+      "name": "شرلی ونگ",
+      "id": "@Shirley_IMC",
+      "img": "/images/shily.png"
+    }
+  ]
+}
